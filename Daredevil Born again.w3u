@@ -137,7 +137,7 @@
 "info": "[Español 2025]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
